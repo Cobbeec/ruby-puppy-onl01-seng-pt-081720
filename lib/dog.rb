@@ -18,3 +18,4 @@ end
 def .print_all
   puts @@all 
 end
+end 
