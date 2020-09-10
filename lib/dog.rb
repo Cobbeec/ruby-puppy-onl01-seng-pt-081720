@@ -18,7 +18,7 @@ def self.clear_all
 end 
 
 def self.print_all
-  @@all.inspect  
+  @@all.print 
 end
 
 def save 
