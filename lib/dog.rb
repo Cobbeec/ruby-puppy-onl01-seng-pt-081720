@@ -19,5 +19,8 @@ def self.print_all
  @@all 
  puts @@all.inspect  
 end
+def save 
+  @@all << self 
+end 
 
 end 
