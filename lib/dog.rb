@@ -19,7 +19,7 @@ end
 
 def self.print_all
   @@all 
-puts a.instance_variables
+puts 
 end
 
 def save 
