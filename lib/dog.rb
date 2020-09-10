@@ -19,7 +19,7 @@ end
 
 def self.print_all
   @@all 
-puts 
+puts Dog.all 
 end
 
 def save 
