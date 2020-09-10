@@ -16,8 +16,7 @@ def self.clear_all
   @@all.clear  
 end 
 def self.print_all
-  @@all << Dog 
-  puts @@all 
+  print @@all 
 end
 
 end 
