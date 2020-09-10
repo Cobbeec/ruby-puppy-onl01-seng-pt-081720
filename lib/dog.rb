@@ -18,7 +18,8 @@ def self.clear_all
 end 
 
 def self.print_all
-  @@all.print 
+ @all = A.new
+a.instance_variables
 end
 
 def save 
